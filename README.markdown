@@ -1,5 +1,5 @@
 # One-Click LLM Fine-Tuning in Google Colab
-
+Colab-https://colab.research.google.com/drive/1j0z0B23V6MwILmv_HfdVOKgKG-VmQO4p?usp=sharing 
 ## Description
 
 This repository provides a one-click solution to fine-tune a Language Model (LLM) using Google Colab. Leveraging [LoRA (Low-Rank Adaptation)](https://arxiv.org/abs/2106.09685), it enables efficient fine-tuning on custom datasets. The default example uses the [SmolLM2-135M-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct) model with a synthetic drone action dataset, but you can easily adapt it to your own use case.
